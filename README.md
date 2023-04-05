@@ -106,7 +106,7 @@
   
  
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=arg-hya&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=arg-hya&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/arg-hya/arg-hya/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=arg-hya&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=arg-hya&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=arg-hya&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=arg-hya&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
