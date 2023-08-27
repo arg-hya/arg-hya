@@ -4,7 +4,7 @@
 <img src="https://github.com/arg-hya/arg-hya/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/arg-hya"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I am currently pursuing Masters in Computer Engineering at York Universoty, Canada.
+  - 🔭 I am currently pursuing Masters in Computer Engineering at York University, Canada.
   - 🌱 I have 8+ years of experience as a Senior Software Developer.
   - 💬 I love to trek in the Himalayas, play Volleyball and am learning piano.
   - 😄 Pronouns: He / Him
