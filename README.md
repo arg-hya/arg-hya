@@ -10,9 +10,11 @@
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: I once participated in a chilli eating contest and came in second place!
   
-  #### 📫 How to reach me:
   
- [<img src="https://github.com/arg-hya/arg-hya/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/ARGHYA#8640)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/akundu1/)  &nbsp; <a href="mailto:arghya322@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  <!---
+  #### 📫 How to reach me:  
+[<img src="https://github.com/arg-hya/arg-hya/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/ARGHYA#8640)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/akundu1/)  &nbsp; <a href="mailto:arghya322@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+ -->
   
  #### 📋 Languages <br />
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
